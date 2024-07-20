@@ -1,0 +1,9 @@
+Category,Inputs,Total CO2 Emissions
+Transportation,"{'distance': 34.68, 'fuel_efficiency': 2.3, 'vehicle_type': 'Car', 'fuel_type': 'Gasoline'}",4.97
+Electricity,"{'consumption': 360.8, 'energy_source': 'Coal'}",295.86
+Diet,"{'meals_per_day': 3, 'diet_composition': 'Balanced', 'food_type': 'Meat'}",9.0
+Industrial Processes,"{'quantity_of_materials_used': 29.12, 'industry_type': 'Manufacturing', 'production_process': 'Casting'}",2912.0
+Transportation,"{'distance': 25.71, 'fuel_efficiency': 1.72, 'vehicle_type': 'Car', 'fuel_type': 'Gasoline'}",3.69
+Transportation,"{'distance': 36.93, 'fuel_efficiency': 2.95, 'vehicle_type': 'Car', 'fuel_type': 'Diesel'}",5.32
+Electricity,"{'consumption': 335.23, 'energy_source': 'Renewables'}",274.89
+Diet,"{'meals_per_day': 3, 'diet_composition': 'Balanced', 'food_type': 'Meat'}",9.0
